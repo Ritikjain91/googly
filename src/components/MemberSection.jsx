@@ -18,7 +18,7 @@ const MemberSection = () => {
   ];
 
   return (
-    <Box sx={{ px: 2, py: 10, background: 'transparent' }}>
+    <Box sx={{ background: 'transparent' }}>
       {/* heading: NO colour set – you control it externally */}
       <Typography variant="h3" align="center" sx={{ fontWeight: 900,color:'success.main', fontSize: { xs: '2rem', md: '3rem' }, mb: 8 }}>
         What Members Are Saying

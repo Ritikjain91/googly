@@ -11,7 +11,7 @@ const HotDealsSection = () => {
   ];
 
   return (
-    <Box sx={{ px: 2, py: 10, background: 'transparent', textAlign: 'center' }}>
+    <Box sx={{  background: 'transparent', textAlign: 'center' }}>
       {/* headline */}
       <Typography variant="h3" sx={{ fontWeight: 900, fontSize: { xs: '2rem', md: '3rem' }, color: 'success.main', mb: 8 }}>
         What Members Are Saying
